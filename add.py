@@ -1,4 +1,4 @@
 a=10
-b=20
+b=30
 sum=a+b
-print("sum is",sum)
+print("sum is ",sum)
